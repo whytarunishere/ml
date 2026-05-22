@@ -16,3 +16,10 @@ I'll write everything i learn here, No proper format is followed here for the no
 -pip install graphviz
 
 ## Day 2:
+-tanh function 
+-backpropogation(manual and then automatic)
+-topological sort
+-NEURON
+-lamda functions
+-apply tanh functionality into exponentiation format (READ but will implement in future maybe)
+- implement this in pytorch, it was very easy once you understand the basic concept of gradient 
