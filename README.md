@@ -30,5 +30,5 @@ I'll write everything i learn here, No proper format is followed here for the no
 - NEURON CLASS, LAYER CLASS, MLP CLASS
 - forward pass -> backward pass -> update
 - parameters
-- python -> class methods, static methods
+- python -> class methods, static methods, more about special/dunder methods, dunder methods with classes
 - 
